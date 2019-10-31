@@ -1,0 +1,148 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	background: url(fondo2.jpg) no-repeat fixed center;
+	background-size: cover;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.container_left{
+	width: 540px;
+	float: left;
+	margin: 230px 0 0 40px ;
+}
+
+h1{
+	font-size: 36px;
+	font-style: bold,italic;
+	color: #fff;
+	
+}
+h2{
+
+font-size: 20px;
+color: #fff;
+margin-top:50px;
+
+}
+
+.container_form{
+	width: 500px;
+	margin: 50px 0 0 140px;
+	float: left;
+}
+
+
+/*ESTILOS PARA EL FORMULARIO*/
+
+
+.formulario_uno{
+	width: 100%;
+	background: rgb(255,255,255,0.7	);
+	/*background: url(../img/fondo.png);*/
+	padding: 20px;
+	box-sizing: border-box;
+	color: #707070;
+	font-size: 16px;
+	float: right;
+	position: relative;
+	
+}
+
+label h1{
+	font-size: 20px;
+	font-style: italic;
+	color: #4A4A4A;
+	padding-bottom: 5px;
+}
+
+label h2{
+	font-size: 16px;
+	text-align: center;
+	padding:5px 0 15px 0;
+	margin-top:0px;
+	color: #4A4A4A;
+}
+
+.formulario_uno input[type="text"], .formulario_uno input[type="email"], 
+ .formulario_uno select{
+	color: #232323;
+	border: none;
+	background: rgb(255,255,255,0.8);
+	height: 40px;
+	border-top-right-radius:5px ;
+	border-top-left-radius:5px ;
+	border-bottom: 3px solid #707070;
+	margin-top: 15px;
+	padding-left: 5px;
+}
+
+.formulario_uno .largo{
+	width: 450px;
+}
+
+.formulario_uno .corto{
+	width: 222px;
+	margin-top:17px;
+}
+
+.formulario_uno .right{
+	float: right;
+}
+
+.formulario_uno .left{
+	float: left;
+}
+
+.formulario_uno .button:hover{
+	background-color: #6B3176;
+}
+
+.formulario_uno .largo:focus{
+	border-bottom: 3px solid #154289;
+}
+
+
+input::-webkit-input-placeholder {
+    font-size: 15px;
+}
+input::-moz-placeholder {
+    font-size: 15px;
+ }
+
+select {
+	font-size: 15px;
+}
+
+.formulario_uno .button{
+	background: #154289;
+	border-radius: 5px;
+	border:none;
+	padding: 10px 25px 10px 25px;
+	margin-top: 10px;
+	color: #fff;
+	width: 200px;
+	margin: 25px 100px 0;
+	font-size: 20px;
+	font-style: italic;
+}
+
+
+.formulario_uno input[type="checkbox"], .formulario_uno label{
+	margin-top:30px;
+
+}
+.formulario_uno input[type="checkbox"]{
+	transform: scale(1.2);
+}
+
+.formulario_uno label{
+	font-size: 14px;
+}
+
+
