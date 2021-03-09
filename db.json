@@ -1,5 +1,5 @@
 {
-  "users": [
+  "users": {
     {
       	"email":"ed@team.com",
 	"password":1234,
@@ -17,5 +17,5 @@
 	"token":"SDVSFVRTHRGBsdvSDVSWEWGREGTEHRYHrnSDBSRGRGETHTHT"	
     },
     
-  ]
+}
 }
