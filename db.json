@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      	"email":"ed@team.com",
+	"password":1234,
+	"token":"wef@ewrgrg@£$$%EFGsgwrghethadfa@£@wegwRGWRGWRGwrg"	
+    },
+    {
+   	"email":"betok@edteam.com",
+	"password":12345,
+	"token":"SDVSFVRTHRGBsdvSDVSWEWGREGTEHRYHrnSDBSRGRGETHTHT"	
+    },
+    {
+ 
+	"email":"estudiantes@edteam.com",
+	"password":123456,
+	"token":"SDVSFVRTHRGBsdvSDVSWEWGREGTEHRYHrnSDBSRGRGETHTHT"	
+    },
+    
+  ]
+}
